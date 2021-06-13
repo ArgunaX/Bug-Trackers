@@ -8,7 +8,7 @@ Evaluar y documentar una de las siguientes herramientas de tipo Bug Tracker (ras
 * Faveo
 * Freshdesk Free
 * HelpDeskZ
-* HelpSpot
+* HelpSpot ( *MI TRABAJO* )
 * Hubspot Service Hub Free
 * ManageEngine Servide Desk Plus
 * Mantis Bug Tracker
